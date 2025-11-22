@@ -1,0 +1,68 @@
+body {
+    font-family: Arial, sans-serif;
+    background: #ffffff;
+    margin: 0;
+    padding: 0;
+    display: flex;
+    justify-content: center;
+}
+
+.container {
+    width: 90%;
+    max-width: 700px;
+    margin-top: 40px;
+}
+
+.title {
+    text-align: center;
+    color: #FF6A00;
+    margin-bottom: 20px;
+}
+
+#busca {
+    width: 100%;
+    padding: 16px;
+    font-size: 20px;
+    border: 2px solid #FF6A00;
+    border-radius: 30px;
+    outline: none;
+}
+
+.linha {
+    display: grid;
+    grid-template-columns: 1fr 40px 140px 40px;
+    align-items: center;
+    padding: 12px;
+    border-bottom: 1px solid #ddd;
+}
+
+.cidade { 
+    font-size: 18px; 
+}
+
+.codigo { 
+    font-size: 18px; 
+    text-align: center; 
+}
+
+.copy-btn {
+    cursor: pointer;
+    font-size: 20px;
+    color: #333;
+}
+
+.copy-btn:hover {
+    color: #FF6A00;
+}
+
+footer {
+    margin-top: 40px;
+    text-align: center;
+    font-size: 14px;
+    color: #666;
+}
+
+.link {
+    color: #FF6A00;
+    cursor: pointer;
+}

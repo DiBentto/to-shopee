@@ -1,0 +1,9 @@
+[
+  { "cidade": "Belo Horizonte", "codigo": "LMG-50" },
+  { "cidade": "Contagem", "codigo": "LMG-05" },
+  { "cidade": "Vespasiano", "codigo": "LMG-40" },
+{ "cidade": "São Paulo 1", "codigo": "LSP-01" },
+{ "cidade": "São Paulo 2", "codigo": "LSP-02" },
+  { "cidade": "Teresina 1", "codigo": "LPI-01" },
+  { "cidade": "Teresina 2", "codigo": "LPI-02" }
+]
